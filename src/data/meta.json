@@ -2,12 +2,12 @@
     "title": "Comic Artist Webring",
     "description": "This is a webring for a group of cartoonists who all know each other and kinda just wanna talk shop without all the fussy stuff.",
     "image": "freakazoid.jpg",
-    "url": "https://nostalgic-perlman-fe6c74.netlify.app",
+    "url": "https://comic-artist-webring.netlify.app/",
     "repo": "https://github.com/comicshub/Comic-Artist-Webring",
     "admins": [
         {
             "name": "Shivana Sookdeo",
-            "url": "https://nostalgic-perlman-fe6c74.netlify.app"
+            "url": "shivanasookdeo.org"
         }
     ]
 }
