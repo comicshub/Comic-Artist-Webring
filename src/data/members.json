@@ -1,47 +1,42 @@
 [
     {
-        "title": "Max Böck",
-        "url": "https://mxb.dev/",
-        "feed": "https://mxb.dev/feed.xml"
+        "title": "Shivana Sookdeo",
+        "url": "shivanasookdeo.org",
+        "feed": null
     },
     {
-        "title": "Manuel Matuzovic",
-        "url": "https://www.matuzo.at/",
-        "feed": "https://www.matuzo.at/feed.xml"
+        "title": "Hannah Vardit",
+        "url": "http://hannahvardit.com/",
+        "feed": null
     },
     {
-        "title": "Charlie Owen",
+        "title": "Maddi Gonzalez",
         "url": "https://www.sonniesedge.net/",
         "feed": null
     },
     {
-        "title": "Björn Ganslandt",
-        "url": "https://ganslandt.xyz/",
+        "title": "Wendy Xu",
+        "url": "http://www.artofwendyxu.com/",
         "feed": null
     },
     {
-        "title": "Jan Hrubý",
-        "url": "https://www.mrozilla.cz/",
+        "title": "Rebecca Mock",
+        "url": "https://rebeccamock.com/",
         "feed": null
     },
     {
-        "title": "Zach Leatherman",
-        "url": "https://www.zachleat.com/",
-        "feed": "https://www.zachleat.com/web/feed/"
-    },
-    {
-        "title": "Steve Gardner",
-        "url": "https://ste.vg",
+        "title": "Kay O'Neill",
+        "url": "https://www.instagram.com/strangelykatie",
         "feed": null
     },
     {
-        "title": "Alan Levine",
-        "url": "https://cogdogblog.com/",
-        "feed": "https://cogdogblog.com/feed"
+        "title": "Aimee Fleck",
+        "url": "https://www.aimeefleck.com/",
+        "feed": null
     },
     {
-        "title": "Marius Ghita",
-        "url": "https://mhitza.github.io",
-        "feed": "https://mhitza.github.io/atom.xml"
+        "title": "Toril Orlesky",
+        "url": "http://torilorlesky.com/",
+        "feed": null
     }
 ]
