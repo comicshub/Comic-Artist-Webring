@@ -1,3 +1,4 @@
+
 [
     {
         "title": "Shivana Sookdeo",
@@ -6,17 +7,17 @@
     },
     {
         "title": "Hannah Vardit",
-        "url": "http://hannahvardit.com/",
-        "feed": null
-    },
-    {
-        "title": "Maddi Gonzalez",
-        "url": "https://quasimaddi.com/",
+        "url": "https://hannahvardit.com/",
         "feed": null
     },
     {
         "title": "Wendy Xu",
         "url": "http://www.artofwendyxu.com/",
+        "feed": null
+    },
+    {
+        "title": "Maddi Gonzalez",
+        "url": "https://quasimaddi.com/",
         "feed": null
     },
     {
@@ -26,13 +27,18 @@
     },
     {
         "title": "Kay O'Neill",
-        "url": "https://www.instagram.com/strangelykatie",
+        "url": "https://www.instagram.com/strangelykatie/",
+        "feed": null
+    },
+    {
+        "title": "Reed Black",
+        "url": "reedblackcomics.com/",
         "feed": null
     },
     {
         "title": "Aimee Fleck",
-        "url": "https://www.aimeefleck.com/",
-        "feed": null
+        "url": "https://cogdogblog.com/",
+        "feed": "https://cogdogblog.com/feed"
     },
     {
         "title": "Toril Orlesky",
@@ -40,23 +46,8 @@
         "feed": null
     },
     {
-        "title": "Sarah Winifred Searle",
-        "url": "http://www.swinsea.com/",
-        "feed": null
-    },
-    {
-        "title": "Sage Coffey",
-        "url": "http://www.sagecoffey.com/",
-        "feed": null
-    },
-    {
-        "title": "Akitron",
-        "url": "http:/twitter.com/Akitron",
-        "feed": null
-    },
-    {
-        "title": "Reed Black",
-        "url": "reedblackcomics.com/",
+        "title": "Chris Kindred",
+        "url": "https://www.chriskindred.com/",
         "feed": null
     }
 ]
