@@ -1,13 +1,13 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
+    "title": "Comic Artist Webring",
+    "description": "This is a webring for a group of cartoonists who all know each other and kinda just wanna talk shop without all the fussy stuff.",
     "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "url": "https://nostalgic-perlman-fe6c74.netlify.app",
+    "repo": "https://github.com/comicshub/Comic-Artist-Webring",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "Shivana Sookdeo",
+            "url": "https://nostalgic-perlman-fe6c74.netlify.app"
         }
     ]
 }
